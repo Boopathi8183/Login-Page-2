@@ -1,0 +1,29 @@
+body{
+    background-position: top;
+    background-size: 1500px;
+    background-image: url(Man.jpg)
+}
+
+div{
+    font-size: 25px;
+}
+
+input{
+    padding: 5px;
+    border-color: rgb(255, 33, 3);
+    border-width: 5px;
+    text-align: center;
+    background-color:rgb(255, 255, 255)
+}
+
+label{
+    font-size: 30px;
+    border-right: 20px;
+}
+
+button{
+    color: aliceblue;
+    background-color: rgb(253, 10, 10);
+    border-radius: 10px;
+    font-size:27px   
+}
